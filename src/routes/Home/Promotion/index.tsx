@@ -4,5 +4,5 @@ export default function Promotion() {
         <main>
             <h2>Página de promoção</h2>
         </main>
-    )
+    );
 }

@@ -4,5 +4,5 @@ export default function HomeBody() {
         <main>
             <h2>Página inicial</h2>
         </main>
-    )
+    );
 }

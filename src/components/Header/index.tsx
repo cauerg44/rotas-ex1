@@ -5,7 +5,7 @@ export default function Header() {
     return (
         <header>
             <div className="container">
-                <h1>Meu site</h1>
+                <h1 className="site-name">Meu site</h1>
             </div>
         </header>
     )
